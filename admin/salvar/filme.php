@@ -23,8 +23,6 @@
                 mensagem("Erro", "Erro ao copiar arquivo para o servidor","error");
             }
 
-            redimensionarImagem("../arquivos/{$capa}", 600, 800, 100);
-
         }
 
         //se o id estiver vazio - insert
